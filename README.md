@@ -27,10 +27,10 @@
   - [GitHub Link](#)  
 
 ---
+## 📊 GitHub Analytics
 
-## 📊 **GitHub Analytics**  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hicham-Errihani&show_icons=true&theme=radical&hide_border=true)  
-
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Hicham-Errihani&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Langages Top](https://github-readme-stats.vercel.app/api/top-langs/?username=Hicham-Errihani&layout=compact&theme=dark)
 ---
 
 ## 🤝 **Let's Connect!**  
