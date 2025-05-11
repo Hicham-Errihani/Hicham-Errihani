@@ -64,11 +64,6 @@
   - [GitHub Link](#)  
 
 ---
-## 📊 GitHub Analytics
-
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Hicham-Errihani&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Langages Top](https://github-readme-stats.vercel.app/api/top-langs/?username=Hicham-Errihani&layout=compact&theme=dark)
----
 
 ## 🤝 **Let's Connect!**  
 - 💼 LinkedIn: [Let's network](https://www.linkedin.com/in/hicham-errihani-815755266/)  
