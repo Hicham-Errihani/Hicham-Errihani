@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hello, I'm Hicham Errihani
 
-<!--
-**Hicham-Errihani/Hicham-Errihani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Big Data & AI Engineer** | Real-time Systems Specialist | Cloud Solutions  
 
-Here are some ideas to get you started:
+📍 **Based in** [Your Location]  
+📧 **Email**: [hichamerrihani.pro@gmail.com](mailto:hichamerrihani.pro@gmail.com)  
+🔗 **LinkedIn**: [Hicham Errihani](https://www.linkedin.com/in/hicham-errihani-815755266/)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ **Technical Stack**  
+| **Big Data**       | **AI/ML**           | **Cloud & DevOps**  |  
+|---------------------|---------------------|---------------------|  
+| Apache Spark        | TensorFlow          | AWS/GCP             |  
+| Kafka              | PyTorch             | Docker/Kubernetes   |  
+| Hadoop             | LLMs (GPT, Gemini)  | CI/CD Pipelines     |  
+
+---
+
+## 🏆 **Featured Projects**  
+- **Real-time Fraud Detection**  
+  - Kafka + Spark Streaming | Python  
+  - [GitHub Link](#) *(replace with actual link)*  
+
+- **Scalable Data Pipeline**  
+  - AWS Lambda + DynamoDB | Serverless  
+  - [GitHub Link](#)  
+
+---
+
+## 📊 **GitHub Analytics**  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hicham-Errihani&show_icons=true&theme=radical&hide_border=true)  
+
+---
+
+## 🤝 **Let's Connect!**  
+- 💼 LinkedIn: [Let's network](https://www.linkedin.com/in/hicham-errihani-815755266/)  
+- 📩 Email me: [hichamerrihani.pro@gmail.com](mailto:hichamerrihani.pro@gmail.com)  
